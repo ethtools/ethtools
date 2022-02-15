@@ -1,0 +1,7 @@
+/*!
+ *  build: vue-admin-beautiful 
+ *  vue-admin-beautiful author: chuzhixin 1204505056@qq.com 
+ *  vue-admin-beautiful QQ Group(QQ群): 972435319、1139183756 
+ *  time: 2022-2-15 17:34:33
+ */
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-56fc5e1d"],{"0647":function(t,e,n){},"37f9":function(t,e,n){"use strict";n.r(e);var l=function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticClass:"more-container"},[n("el-row",{attrs:{gutter:20}},[n("el-col",{attrs:{xs:24,sm:24,md:24,lg:8,xl:8}},[n("el-card",[n("div",{attrs:{slot:"header"},slot:"header"},[t._v("工具箱")]),n("div",[n("ul",[n("li",[t._v("计量单位转换")]),n("li",[t._v("整数类型转换")]),n("li",[t._v("字符与bytes转换")])])])])],1),n("el-col",{attrs:{xs:24,sm:24,md:24,lg:8,xl:8}},[n("el-card",[n("div",{attrs:{slot:"header"},slot:"header"},[t._v("MeatMask")]),n("div",[n("ul",[n("li",[t._v("发行兼容ERC20协议代币")]),n("li",[t._v("调用已部署的智能合约方法")]),n("li",[t._v("签名自定义交易并进行广播")])])])])],1)],1)],1)},s=[],o={name:"More",components:{},data:function(){return{nodeEnv:"production"}},created:function(){},mounted:function(){},methods:{}},r=o,a=(n("9722"),n("2877")),c=Object(a["a"])(r,l,s,!1,null,"9cef085e",null);e["default"]=c.exports},9722:function(t,e,n){"use strict";n("0647")}}]);
